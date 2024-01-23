@@ -1,6 +1,6 @@
 
 # CIDER
- Resources for paper "[Inconsistent dialogue responses and how to recover from them]()".
+ Resources for paper "[Inconsistent dialogue responses and how to recover from them](https://arxiv.org/abs/2401.10353)".
 
 ## Dataset
 The proposed dataset CIDER is located in folder `data/`, where there are two files according to the data source. The English version will come soon.
