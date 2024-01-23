@@ -51,4 +51,13 @@ python test_datasets.py \
 ```
 
 ## Citation
-TBD
+```bib
+@misc{zhang2024inconsistent,
+      title={Inconsistent dialogue responses and how to recover from them}, 
+      author={Mian Zhang and Lifeng Jin and Linfeng Song and Haitao Mi and Dong Yu},
+      year={2024},
+      eprint={2401.10353},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
