@@ -6,7 +6,7 @@
 The proposed dataset CIDER is located in folder `data/`, where there are two files according to the data source. The English version will come soon.
 
 <div align="center"> 
-<img src="inst.png" alt="image" width="400" height="auto" class="center"></div>
+<img src="inst.png" alt="image" width="500" height="auto" class="center"></div>
 
 ## Model Training and Testing
 Script `train.py` is for training and `test_datasets.py` for testing. Task to conduct could be chosen by parameter `task`, here is an example for `resolve_turn` task.
@@ -51,6 +51,7 @@ python test_datasets.py \
 ```
 
 ## Citation
+Please cite our paper if you find the codes or dataset helpful using this BibTeX:
 ```bib
 @misc{zhang2024inconsistent,
       title={Inconsistent dialogue responses and how to recover from them}, 
