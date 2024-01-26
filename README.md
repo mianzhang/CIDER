@@ -53,12 +53,10 @@ python test_datasets.py \
 ## Citation
 Please cite our paper if you find the codes or dataset helpful using this BibTeX:
 ```bib
-@misc{zhang2024inconsistent,
-      title={Inconsistent dialogue responses and how to recover from them}, 
-      author={Mian Zhang and Lifeng Jin and Linfeng Song and Haitao Mi and Dong Yu},
-      year={2024},
-      eprint={2401.10353},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{zhang2024inconsistent,
+  title={Inconsistent dialogue responses and how to recover from them},
+  author={Zhang, Mian and Jin, Lifeng and Song, Linfeng and Mi, Haitao and Yu, Dong},
+  journal={arXiv preprint arXiv:2401.10353},
+  year={2024}
 }
 ```
